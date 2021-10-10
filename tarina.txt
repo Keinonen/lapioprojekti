@@ -1,7 +1,2 @@
-<<<<<<< Updated upstream
-tämä on teksti 1. muokkaus 3. muokkaus
-toka lause 2. muokkaus
-=======
-tämä on teksti 1. muokkaus
-toka lause 2. muokkaus 4. muokkaus
->>>>>>> Stashed changes
+tämä on teksti
+toka lause
