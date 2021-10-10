@@ -1,2 +1,1 @@
-terveisiä mun koneelta
-muutos
+terveisiä mun koneelta ja GitHubista
